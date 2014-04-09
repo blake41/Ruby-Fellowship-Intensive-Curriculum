@@ -34,12 +34,14 @@
 ###Day 1:
 - [Deploy on Day 1](https://github.com/flatiron-school-curriculum/deploy-on-day-1)
 - Redo deploy on day 1 after lunch and do it right
+
 #####Lecture
 -Introduction lecture.
   - blog post on [Learned Optimism](http://braythwayt.com/homoiconic/2009/05/01/optimism.html)
   -Please read, and respond on your blog.
-  
-#####Homework
+
+#####Schedule
+- [day1](https://gist.github.com/blake41/10308935)
 
 ###Day 2:
 
@@ -53,6 +55,10 @@
 #####Homework
 [Reflect Blog Post](https://gist.github.com/blake41/10305782)
 [Github Pages](https://gist.github.com/blake41/10305873)
+
+#####Schedule
+- [Day2](https://gist.github.com/blake41/10309132)
+
 ###Day 3:
 
 #####Todo2
@@ -73,6 +79,9 @@
 - [String Manipulation](http://www.techotopia.com/index.php/Ruby_String_Replacement,_Substitution_and_Insertion)
 - [Number Guesser](https://gist.github.com/blake41/10306424)
 
+#####Schedule
+- [day3](https://gist.github.com/blake41/10309300)
+
 ###Day 4:
 
 #####Todo3
@@ -91,6 +100,10 @@
 - [Number Guesser Pt.2](https://gist.github.com/blake41/10307292)
 - [FizzBuzz Blog Post](https://gist.github.com/blake41/10307394)
 - [Regular Expressions Reading](https://gist.github.com/blake41/10307470)
+
+#####Schedule
+- [day4](https://gist.github.com/blake41/10309430)
+
 ###Day5
 
 #####Todo
@@ -103,3 +116,6 @@
 
 #####Lecture
 - Iteration and Collections
+
+#####Schedule
+- [day5](https://gist.github.com/blake41/10308781)
