@@ -1,9 +1,8 @@
 Sinatra week
 Day 1
 Todo: [count elements in an array](https://gist.github.com/blake41/7872777)
-Sinatra Lecture
-Activity: [Part 0](https://gist.github.com/ashleygwilliams/5850444
-) 
+Sinatra Lecture: [pic](https://d1b10bmlvqabco.cloudfront.net/attach/hmryx2specl9j/hms055bghtv1am/hpa1dkus49m4/day20.jpg)
+Activity: [Part 0](https://gist.github.com/ashleygwilliams/5850444) 
 [Emergency Compliment Generator](https://gist.github.com/ashleygwilliams/7873883)
 
 Day 2
